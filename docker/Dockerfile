@@ -1,6 +1,6 @@
 FROM ubuntu:22.04
 
-LABEL maintainer="HireHunt Team"
+LABEL maintainer="Omar Alachi"
 
 ARG WWWGROUP
 ARG NODE_VERSION=20
